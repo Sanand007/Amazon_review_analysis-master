@@ -1,0 +1,15 @@
+{
+  "name": "Amazon_review_analysis",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
